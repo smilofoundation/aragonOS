@@ -2,7 +2,7 @@
  * SPDX-License-Identitifer:    MIT
  */
 
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.24 <0.6.0;
 
 import "./Uint256Helpers.sol";
 
